@@ -17,6 +17,20 @@ Exploria is designed to:
 - Promote sustainable tourism practices to protect Indonesia's environment and cultural assets.
 - Encourage responsible travel choices that create meaningful experiences for visitors while preserving the country’s unique heritage.
 
+## Features
+
+1. *Personalized Recommendations*:
+   Exploria uses AI to analyze user preferences and recommend destinations, activities, and travel packages tailored to individual needs.
+
+2. *Sustainable Travel Options*:
+   Recommendations prioritize eco-friendly choices, supporting local communities and reducing the environmental footprint.
+
+3. *Itinerary Planning*:
+   The system suggests optimized routes and travel plans for efficient and enjoyable trips.
+
+4. *Support for Local Guides*:
+   Connects travelers with experienced local guides, enhancing cultural understanding and promoting authentic experiences.
+
 ## Our Capstone Member
 
 | **Name**                | **Bangkit ID**       | **Path**           |

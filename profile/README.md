@@ -44,16 +44,21 @@ Exploria is designed to:
 | Muhammad Rizki Sepriadi | A315B4KY3062 | Mobile Development |
 
 ## Tech Stack
+### Machine Learning
 - **Pandas**: For data manipulation and preprocessing.
 - **NumPy**: For numerical computing and handling arrays.
 - **Scikit-Learn**: For machine learning model building and evaluation.
 - **TensorFlow**: For building and training deep learning models.
 - **Matplotlib**: For visualizations and result plotting.
+
+### Cloud Computing
 - **Node.js**: For server-side runtime environment, powering backend infrastructure with high efficiency and scalability.
 - **Express.js**: For building scalable APIs, managing routing, middleware, and user interaction logic.
 - **Prisma ORM**: For intuitive and type-safe interactions with the PostgreSQL database, simplifying database management.
 - **PostgreSQL**: As the robust, scalable, and feature-rich relational database for structured data storage and retrieval.
 - **FastAPI**: For building high-performance machine learning APIs
+
+### Mobile Development
 - **Android Studio**: The primary IDE for app development.
 - **Kotlin**: The programming language for building modern and efficient Android apps.
 - **Jetpack Compose**: For building declarative and responsive UI components.

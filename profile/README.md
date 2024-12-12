@@ -62,11 +62,9 @@ Exploria is designed to:
 - **Android Studio**: The primary IDE for app development.
 - **Kotlin**: The programming language for building modern and efficient Android apps.
 - **Jetpack Compose**: For building declarative and responsive UI components.
-- **Firebase**: For user authentication, real-time database, and analytics.
 - **Google Maps API**: To provide location-based features and route optimization.
 - **Retrofit**: For API integration to fetch sustainable travel data and user preferences.
 - **Room Database**: For offline data storage and retrieval.
-- **TensorFlow Lite**: For running machine learning models on-device.
 
 
 Explore responsibly. Travel meaningfully. With Exploria.

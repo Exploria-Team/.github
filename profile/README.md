@@ -29,4 +29,25 @@ Exploria is designed to:
 | Dion Prayoga | A116B4KY1168 | Mobile Development |
 | Muhammad Rizki Sepriadi | A315B4KY3062 | Mobile Development |
 
+## Tech Stack
+- **Pandas**: For data manipulation and preprocessing.
+- **NumPy**: For numerical computing and handling arrays.
+- **Scikit-Learn**: For machine learning model building and evaluation.
+- **TensorFlow**: For building and training deep learning models.
+- **Matplotlib**: For visualizations and result plotting.
+- **Node.js**: For server-side runtime environment, powering backend infrastructure with high efficiency and scalability.
+- **Express.js**: For building scalable APIs, managing routing, middleware, and user interaction logic.
+- **Prisma ORM**: For intuitive and type-safe interactions with the PostgreSQL database, simplifying database management.
+- **PostgreSQL**: As the robust, scalable, and feature-rich relational database for structured data storage and retrieval.
+- **FastAPI**: For building high-performance machine learning APIs
+- **Android Studio**: The primary IDE for app development.
+- **Kotlin**: The programming language for building modern and efficient Android apps.
+- **Jetpack Compose**: For building declarative and responsive UI components.
+- **Firebase**: For user authentication, real-time database, and analytics.
+- **Google Maps API**: To provide location-based features and route optimization.
+- **Retrofit**: For API integration to fetch sustainable travel data and user preferences.
+- **Room Database**: For offline data storage and retrieval.
+- **TensorFlow Lite**: For running machine learning models on-device.
+
+
 Explore responsibly. Travel meaningfully. With Exploria.

@@ -1,6 +1,5 @@
 ![file1](banner.png)
-# Exploria : Personalized AI Recommendation Solution for 
-Smart Travel & Sustainable Tourism in Indonesia
+# Exploria : Personalized AI Recommendation Solution for Smart Travel & Sustainable Tourism in Indonesia
 
 
 Exploria is a project designed to enhance travel experiences while promoting sustainable tourism in Indonesia. By leveraging advanced technologies like AI and machine learning, this system provides smart recommendations tailored to individual preferences, helping travelers explore Indonesia responsibly and meaningfully.
